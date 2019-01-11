@@ -1,0 +1,10 @@
+# PraktikumCSS
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt1.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt1.2.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt2.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt3.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt4.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt5.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt6.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt7.png)
+![alt text](https://github.com/kamila05/PraktikumCSS/blob/master/lt8.png)
